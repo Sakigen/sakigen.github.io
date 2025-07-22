@@ -239,7 +239,9 @@ html[data-theme="dark"] .toggle-switch .stars {
 header {
     text-align: center;
     margin-bottom: 3rem;
-    color: var(--text-header-footer);
+    background-color: #1c1e21;
+    color: #FFFFFF;
+    padding: 2rem;
 }
 
 header h1 {
@@ -608,5 +610,6 @@ a7);
 footer {
     text-align: center;
     padding: 2rem;
-    color: var(--text-header-footer);
+    background-color: #1c1e21;
+    color: #FFFFFF;
 }
