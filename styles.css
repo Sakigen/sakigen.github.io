@@ -5,6 +5,7 @@
     --text-primary: #1c1e21;
     --text-secondary: #606770;
     --text-white: #1c1e21;
+    --text-header-footer: #000000;
     --card-bg: #FFFFFF;
     --card-border: #dddfe2;
     --field-bg: #f5f6f7;
@@ -359,7 +360,6 @@ a7);
 
 .page-header a {
     text-decoration: none;
-    color: var(--text-white);
     transition: color 0.3s ease;
 }
 
