@@ -4,7 +4,7 @@
     --bg-gradient-end: #764ba2;
     --text-primary: #333;
     --text-secondary: #666;
-    --text-white: white;
+    --text-white: #000000;
     --card-bg: rgba(255, 255, 255, 0.95);
     --card-border: transparent;
     --field-bg: #f8fafc;
@@ -29,7 +29,7 @@ html[data-theme="dark"] {
     --bg-gradient-end: #2d3748;
     --text-primary: #e2e8f0;
     --text-secondary: #a0aec0;
-    --text-white: #f7fafc;
+    --text-white: #FFFFFF;
     --card-bg: rgba(45, 55, 72, 0.95);
     --card-border: rgba(255, 255, 255, 0.1);
     --field-bg: #2d3748;
