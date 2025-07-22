@@ -613,3 +613,16 @@ footer {
     background-color: #1c1e21;
     color: #FFFFFF;
 }
+
+html[data-theme="dark"] header h1,
+html[data-theme="dark"] header p {
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] footer p {
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] footer a {
+    color: #87CEEB;
+}
